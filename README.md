@@ -1,2 +1,2 @@
 # arvoreAVLcpp
-Desenvolvimento de um algoritmo para busca em árvores balanceadas
+Desenvolvimento de um algoritmo para busca em árvores balanceadas - AVL
